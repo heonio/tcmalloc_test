@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tcmalloc_test", "tcmalloc_test.vcxproj", "{DAD064F2-7637-4B8A-B03F-E727D6C980A4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "malloc_normal", "..\malloc_normal\malloc_normal.vcxproj", "{4491C5B8-E1C9-4ABE-A254-33B0E390A37D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAD064F2-7637-4B8A-B03F-E727D6C980A4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DAD064F2-7637-4B8A-B03F-E727D6C980A4}.Debug|Win32.Build.0 = Debug|Win32
+		{DAD064F2-7637-4B8A-B03F-E727D6C980A4}.Release|Win32.ActiveCfg = Release|Win32
+		{DAD064F2-7637-4B8A-B03F-E727D6C980A4}.Release|Win32.Build.0 = Release|Win32
+		{4491C5B8-E1C9-4ABE-A254-33B0E390A37D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4491C5B8-E1C9-4ABE-A254-33B0E390A37D}.Debug|Win32.Build.0 = Debug|Win32
+		{4491C5B8-E1C9-4ABE-A254-33B0E390A37D}.Release|Win32.ActiveCfg = Release|Win32
+		{4491C5B8-E1C9-4ABE-A254-33B0E390A37D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
